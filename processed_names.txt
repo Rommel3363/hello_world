@@ -1,0 +1,14 @@
+WinderDancerSpeedAdapt
+WinderIndirectTension
+WinderIndirectTensionSpeedAdapt
+WinderTensionSpeedAdapt
+WinderTensionTorqueAdapt
+WinderVconstant
+SectionalDancerSpeedAdapt
+SectionalDrawControl
+SectionalIndirectTension
+SectionalIndirectTensionSpeedAdapt
+SectionalTensionSpeedAdapt
+SectionalTensionTorqueAdapt
+FrictionMeasurement
+KpAdaptation
